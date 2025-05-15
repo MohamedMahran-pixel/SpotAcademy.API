@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e6eNPzjV9CIYopJV2HWFKI12pcaAIRY1uocK/lajJuo=",
+  "Source": "SpotAcademy.API",
+  "BasePath": "_content/SpotAcademy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
